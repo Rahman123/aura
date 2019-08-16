@@ -8,6 +8,9 @@ Salesforce has introduced a new programming model for the Lightning Component Fr
 * To learn more about Aura components, start with the [Aura Components Basics](https://trailhead.salesforce.com/en/content/learn/modules/lex_dev_lc_basics) module in Trailhead.
 * For more details, see the [Lightning Aura Components Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/).
 
+
+Old ReadMe:
+
 What is Aura?
 Aura is a UI framework for developing dynamic web apps for mobile and desktop devices, while providing a scalable long-lived lifecycle to support building apps engineered for growth. It supports partitioned multi-tier component development that bridges the client and server.
 
